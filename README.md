@@ -1,46 +1,60 @@
-# Getting Started with Create React App
+<h1 align="center">Welcome to React-Pokedex 👋 </h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="http://www.wtfpl.net/" target="_blank">
+    <img alt="License: WTFPL" src="https://img.shields.io/badge/License-WTFPL-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/joshbedo\_" target="_blank">
+    <img alt="Twitter: joshbedo\_" src="https://img.shields.io/twitter/follow/joshbedo\_.svg?style=social" />
+  </a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> A React, Typescript, TailwindCSS, and Framer Motion Pokedex that consumes the public Pokemon API
 
-## Available Scripts
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/607239/106487019-40c25080-6480-11eb-8098-257416e6a177.gif)
 
-In the project directory, you can run:
 
-### `yarn start`
+### ✨ [Demo](www.google.com) "Coming Soon"
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Install
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```sh
+npm i
+```
 
-### `yarn test`
+## Usage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```sh
+npm run start
+```
 
-### `yarn build`
+## Run tests
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```sh
+npm run test
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Author
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+👤 **Josh Bedo**
 
-### `yarn eject`
+* Website: www.apptivity.io
+* Twitter: [@joshbedo\_](https://twitter.com/joshbedo\_)
+* Github: [@joshbedo](https://github.com/joshbedo)
+* LinkedIn: [@josh-bedo-2bb2ab34](https://linkedin.com/in/josh-bedo-2bb2ab34)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🤝 Contributing
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](www.google.com). You can also take a look at the [contributing guide](Contributions, feedback, issues, and feature requests are welcome! Feel free to check the issues page.).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Show your support
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Give a ⭐️ if this project helped you!
 
-## Learn More
+## 📝 License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Copyright © 2021 [Josh Bedo](https://github.com/joshbedo).<br />
+This project is [WTFPL](http://www.wtfpl.net/) licensed.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
