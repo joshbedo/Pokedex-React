@@ -33,7 +33,7 @@ npm run start
 👤 **Josh Bedo**
 
 * Website: www.apptivity.io
-* Twitter: [@joshbedo\_](https://twitter.com/joshbedo\_)
+* Twitter: [@joshbedo1](https://twitter.com/joshbedo1)
 * Github: [@joshbedo](https://github.com/joshbedo)
 * LinkedIn: [@josh-bedo-2bb2ab34](https://linkedin.com/in/josh-bedo-2bb2ab34)
 
