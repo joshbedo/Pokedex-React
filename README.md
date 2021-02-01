@@ -39,11 +39,11 @@ npm run start
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/joshbedo/Pokedex-React/issues). You can also take a look at the [contributing guide](Contributions, feedback, issues, and feature requests are welcome! Feel free to check the issues page.).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/joshbedo/Pokedex-React/issues).
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️  if this project helped you!
 
 ## 📝 License
 
