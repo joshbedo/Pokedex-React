@@ -4,8 +4,8 @@
   <a href="http://www.wtfpl.net/" target="_blank">
     <img alt="License: WTFPL" src="https://img.shields.io/badge/License-WTFPL-yellow.svg" />
   </a>
-  <a href="https://twitter.com/joshbedo_" target="_blank">
-    <img alt="Twitter: joshbedo_" src="https://img.shields.io/twitter/follow/joshbedo_.svg?style=social" />
+  <a href="https://twitter.com/joshbedo1" target="_blank">
+    <img alt="Twitter: joshbedo_" src="https://img.shields.io/twitter/follow/joshbedo1.svg?style=social" />
   </a>
 </p>
 
