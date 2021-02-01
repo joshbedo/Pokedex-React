@@ -75,7 +75,7 @@ export const NavList = () => {
       <div
         className={`cursor-pointer modal-overlay transition absolute w-full h-full bg-gray-900 ${
           isMobileOpen || isFavOpen ? "opacity-50" : "hidden opacity-0"
-        } z-40`}
+        } z-20`}
         onClick={closeMenu}
       ></div>
 

@@ -81,7 +81,7 @@ export const PokemonList = () => {
           exit={{
             opacity: 0,
           }}
-          className="flex justify-between border-b border-gray-700 px-4 py-3 sticky top-0 bg-gray-100 z-20"
+          className="flex justify-between border-b border-gray-700 px-4 py-3 sticky top-0 bg-gray-100 z-10"
         >
           <p className="text-gray-800 capitalize font-bold font-sm">
             {id || "All Pokemon"}
