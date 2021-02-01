@@ -4,8 +4,8 @@
   <a href="http://www.wtfpl.net/" target="_blank">
     <img alt="License: WTFPL" src="https://img.shields.io/badge/License-WTFPL-yellow.svg" />
   </a>
-  <a href="https://twitter.com/joshbedo\_" target="_blank">
-    <img alt="Twitter: joshbedo\_" src="https://img.shields.io/twitter/follow/joshbedo\_.svg?style=social" />
+  <a href="https://twitter.com/joshbedo_" target="_blank">
+    <img alt="Twitter: joshbedo_" src="https://img.shields.io/twitter/follow/joshbedo_.svg?style=social" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/607239/106487019-40c25080-6480-11eb-8098-257416e6a177.gif)
 
 
-### ✨ [Demo](www.google.com) "Coming Soon"
+### ✨ [Demo](https://www.latlmes.com/breaking/your-sensational-news-headline-here-3) "Coming Soon"
 
 ## Install
 
@@ -28,12 +28,6 @@ npm i
 npm run start
 ```
 
-## Run tests
-
-```sh
-npm run test
-```
-
 ## Author
 
 👤 **Josh Bedo**
@@ -45,7 +39,7 @@ npm run test
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](www.google.com). You can also take a look at the [contributing guide](Contributions, feedback, issues, and feature requests are welcome! Feel free to check the issues page.).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/joshbedo/Pokedex-React/issues). You can also take a look at the [contributing guide](Contributions, feedback, issues, and feature requests are welcome! Feel free to check the issues page.).
 
 ## Show your support
 
