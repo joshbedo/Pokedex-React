@@ -107,6 +107,8 @@ export const NavList = () => {
             </svg>
           </button>
 
+          {/* TODO: Favorites mobile menu drawer */}
+
           {/* <aside
             className={`transform top-0 right-0 w-64 bg-white fixed h-full overflow-y-scroll ease-in-out transition-all duration-300 z-40 ${
               isFavOpen ? "-translate-x-0" : "translate-x-full"
@@ -145,6 +147,7 @@ export const NavList = () => {
           </aside> */}
 
           {/* TODO: separate into MobileMenu component later and maybe use context api to track filtered data for both mobile/desktop menu */}
+          
           <aside
             className={`transform top-0 left-0 w-64 bg-white fixed h-full overflow-auto ease-in-out transition-all duration-300 z-40 ${
               isMobileOpen ? "translate-x-0" : "-translate-x-full"
@@ -197,22 +200,6 @@ export const NavList = () => {
                 <p>Reset Filter</p>
               </button>
             </div>
-
-            {/* <nav className="mt-10 ml-6 nav-list overflow-y-scroll">
-              {Object.keys(types).map((typeId: any) => (
-                <NavLink
-                  key={typeId}
-                  onClick={closeMenu}
-                  to={`/type/${types[typeId].name}`}
-                  className="flex items-center justify-left xl:justify-start text-gray mb-8"
-                >
-                  <Template className="text-gray-400" />
-                  <span className="capitalize xl:block ml-4 text-md">
-                    {types[typeId].name!}
-                  </span>
-                </NavLink>
-              ))}
-            </nav> */}
 
             <ul className="mt-10 ml-6 nav-list overflow-y-scroll">
               <AnimatePresence initial={false} exitBeforeEnter>
@@ -296,25 +283,6 @@ export const NavList = () => {
               ))}
             </AnimatePresence>
           </ul>
-          {/* <motion.ul
-            variants={container}
-            animate="show"
-            className="hidden lg:block mt-5 ml-6 nav-list overflow-y-scroll"
-          >
-            {Object.keys(types).map((typeId: any, i: number) => (
-              <motion.li key={i} initial="hidden" variants={children}>
-                <NavLink
-                  to={`/type/${types[typeId].name}`}
-                  className="flex items-center justify-center xl:justify-start text-gray mb-8"
-                >
-                  <Template className="text-gray-400" />
-                  <span className="capitalize xl:block ml-4 text-md">
-                    {types[typeId].name}
-                  </span>
-                </NavLink>
-              </motion.li>
-            ))}
-          </motion.ul> */}
         </div>
       </div>
     </>

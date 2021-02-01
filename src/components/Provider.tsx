@@ -71,7 +71,7 @@ export type Pokemon = {
   id: string | number;
   name: string;
   image: string;
-  types: PokemonType[];
+  types: any[];
   notes?: string;
 };
 

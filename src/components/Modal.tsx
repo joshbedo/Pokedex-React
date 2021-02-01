@@ -1,17 +1,19 @@
 import React, { ReactNode } from "react";
-import { StarOutline } from "heroicons-react";
 
 type ModalProps = {
   show: boolean;
-  onModalClose?(): any;
-  onPrimaryAction?(): any;
   children: ReactNode;
+  onPrimaryAction?(): any;
+  onSecondaryAction?(): any;
 };
 
+/**
+ * TODO: WIP still needs abstracted so it can support children and state
+ */
 export const Modal = ({
   show,
-  onModalClose,
   onPrimaryAction,
+  onSecondaryAction,
   children,
 }: ModalProps) => {
   if (!show) return null;
@@ -70,7 +72,7 @@ export const Modal = ({
               Save
             </button>
             <button
-              onClick={onModalClose}
+              onClick={onSecondaryAction}
               type="button"
               className="mt-3 w-full inline-flex justify-center rounded-md border border-gray-300 shadow-sm px-4 py-2 bg-white text-base font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 sm:mt-0 sm:ml-3 sm:w-auto sm:text-sm"
             >
